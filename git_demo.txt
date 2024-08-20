@@ -1,1 +1,2 @@
 Hi Hello in Git workshop
+Today is 20th Aug
